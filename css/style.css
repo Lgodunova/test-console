@@ -6,3 +6,6 @@ body {
 .page-header {
 	background-color: #bada55;
 }
+.promo {
+	display: block;
+}
